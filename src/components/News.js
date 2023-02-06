@@ -10,7 +10,7 @@ function News() {
     const data = await response.json();
     return setUser(data);
   }
-
+//api fetching
   useEffect(() => {
     fetchData();
   }, [])
