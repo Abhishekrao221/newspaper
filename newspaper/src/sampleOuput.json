@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": "ESPNcricinfo staff",
+            "title": "Joginder Sharma announces retirement from all forms of cricket - ESPNcricinfo",
+            "description": "\"I will be exploring new opportunities in the world of cricket and the business side of it,\" former India medium pacer says",
+            "url": "https://www.espncricinfo.com/story/joginder-sharma-announces-retirement-from-all-forms-of-cricket-1357097",
+            "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/353600/353694.6.jpg",
+            "publishedAt": "2023-02-03T09:00:00Z",
+            "content": "News\"I will be exploring new opportunities in the world of cricket and the business side of it,\" former India medium pacer says"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Australia get 'Ashwin duplicate' to train ahead of Test series against India - Indiatimes.com",
+            "description": "Cricket News: Australia have roped in Maheesh Pithiya, a 21-year-old spinner with uncanny resemblance to Ravichandran Ashwin, to train on spin-friendly tracks as pa",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/australia-get-ashwin-duplicate-to-train-ahead-of-test-series-against-india/articleshow/97575171.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-97575131,width-1070,height-580,imgsize-64414,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2023-02-03T08:17:00Z",
+            "content": "We've made the right decision to not play a tour match in India: Steve SmithFormer Australia captain Steve Smith, whose side had lost the series 1-2 when it toured India in 2017, indicated a lot of t… [+137 chars]"
+        }
+    ]
+}
